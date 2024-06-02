@@ -1,10 +1,10 @@
 export const currentUser = {
-    name: 'Priyanshi Gupta',
-    resume: '/priyucv.pdf',
-    email: 'priyanshigupta1706@gmail.com',
-    gitLink: 'https://github.com/priyaanshayy',
-    xLink: 'https://twitter.com/priyaanshay',
-    instaLink: 'https://instagram.in/priyaanshayy',
+    name: 'Zahid Khan',
+    resume: '/zahidcv.pdf',
+    email: 'zahidkhan007860@gmail.com',
+    gitLink: 'https://github.com/zahidkhan262',
+    xLink: 'https://twitter.com/zahidkhan262',
+    instaLink: 'https://instagram.in/zahidkhan262',
     about: "I am a skilled software developer with experience in TypeScript and JavaScript, and expertise in frameworks like React, Node.js, and Three.js. I am a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Lets work together to bring your ideas to life!"
 
 }
